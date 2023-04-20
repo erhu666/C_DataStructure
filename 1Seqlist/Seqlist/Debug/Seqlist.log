@@ -1,0 +1,3 @@
+﻿  main.c
+Q:\Datastruct\C\Seqlist\Seqlist\main.c(39,44): warning C4047: “!=”:“ElemType *”与“int”的间接级别不同
+  Seqlist.vcxproj -> Q:\Datastruct\C\Seqlist\Debug\Seqlist.exe

@@ -1,0 +1,5 @@
+﻿  List.c
+Q:\Datastruct\C\LIst.c\LIst.c\List.c(23,52): warning C4133: “=”: 从“ListNode *”到“ListNode *”的类型不兼容
+Q:\Datastruct\C\LIst.c\LIst.c\List.c(35,14): warning C4133: “=”: 从“ListNode *”到“ListNode *”的类型不兼容
+Q:\Datastruct\C\LIst.c\LIst.c\List.c(31,1): warning C4133: “初始化”: 从“ListNode *”到“ListNode *”的类型不兼容
+  LIst.c.vcxproj -> Q:\Datastruct\C\LIst.c\Debug\LIst.c.exe
